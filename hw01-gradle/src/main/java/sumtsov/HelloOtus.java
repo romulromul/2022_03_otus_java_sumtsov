@@ -1,4 +1,4 @@
-package ru.sumtsov;
+package sumtsov;
 
 import com.google.common.collect.Ordering;
 
